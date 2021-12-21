@@ -2,13 +2,13 @@
 An Experienced Software Engineer and Certified Scrum Master
 
 ## Contact
-Email: leez79@gmail.com | Phone: 1 (778) 587-4116
+Email: leez79@gmail.com
 
 ## PDF Resume
 - <a href="https://github.com/iamthomaslee/resume/blob/master/export/thomas_lee_resume.pdf" target="_blank">PDF: thomas_lee_resume.pdf</a>
 
 ## Summary
-- 6+ years working experience as a full-stack software engineer in agile scrum teams
+- 8+ years working experience as a software engineer in agile scrum teams
 - Developed online enterprise applications with Java and related technologies
 - Strong communication skills and a solid understanding of the software development process
 - Participated in multiple projects for developing RESTful API server/client
@@ -25,8 +25,14 @@ Email: leez79@gmail.com | Phone: 1 (778) 587-4116
 - Other: Maven, Spring, Spring Boot, Hibernate, RESTful API, XML, JSON, HTML5, CSS, JQuery, Express, Selenium, Bamboo, Jira/Confluence, Fisheye+Crucible, IntelliJ IDEA, Eclipse, NetBeans, Visual Studio, Visual Studio Code, Photoshop
 
 ## Working Experience
+### Senior Programmer 2 at Save on Foods (Langley BC)
+(September 2019 - Present)
+- Design and developed applications that support E-commerce business using Java, Spring and JPA
+- Rebuilt a legacy desktop applications which is used to handle customer profiles using C# and GraphQL
+- Created and maintained CI/CD pipeline with Bamboo
+- Trained junior developers
 ### Software Developer at Fresche Solutions (Sidney BC) 
-(February 2019 - Present)
+(February 2019 - September 2019)
 - C++, PHP, Angular, Java, DB2, JSON, RESTful API, IBM Watson API, IBM i Server
 - Participated in designing and implementing RESTful API services
 - Developed web page, data reports, and integrated AI templates
@@ -59,5 +65,4 @@ PhD in Computer Science and Engineering, Catholic University of Korea (March 200
 
 ## Links
 - https://github.com/iamthomaslee/resume
-- http://www.iamthomaslee.com
 - http://www.mathgem.ca
